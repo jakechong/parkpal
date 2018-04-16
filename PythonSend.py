@@ -10,7 +10,7 @@ import datetime
 
 delay = 1*5 # Delay in seconds
 
-base = 'http://127.0.0.1:5000'
+base = 'http://ucbparkpal.herokuapp.com'
 network_id = 'local'
 header = {}
         
